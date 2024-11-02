@@ -18,7 +18,7 @@ This project provides code, data, and instructions for fine-tuning a large langu
 
 ### Project Overview
 
-This repository fine-tunes a pre-trained language model (such as GPT, BERT, or T5) on custom datasets to improve performance on specific tasks. Fine-tuning can help the model provide more accurate responses, adapt to specialized vocabularies, or improve accuracy in particular domains.
+This repository fine-tunes a pre-trained language model (such as GPT, RoBERTa) on custom datasets to improve performance on specific tasks. Fine-tuning can help the model provide more accurate responses, adapt to specialized vocabularies, or improve accuracy in particular domains.
 
 ### Requirements
 
