@@ -33,5 +33,15 @@ This repository fine-tunes a pre-trained language model (such as GPT, BERT, or T
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/Finetune-LLMs.git
+   git clone https://github.com/rodridu/Finetune-LLMs.git
    cd Finetune-LLMs
+
+2. **Install Dependencies**:
+Install the necessary packages listed in `requirements.txt`
+
+  ```bash
+  pip install -r requirements.txt
+```
+
+3. **Set Up Environment Variables**:
+Create an `.env` file or set environment variables if needed (e.g., for API keys or model paths).
