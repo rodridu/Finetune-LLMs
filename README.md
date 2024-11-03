@@ -14,7 +14,7 @@ This repository contains Jupyter notebooks for fine-tuning large language models
 
 ### Project Overview
 
-This project fine-tunes two popular language models, ChatGPT and RoBERTa, to perform sentiment analysis on earnings call transcript sentences. The objective is to enhance these models' ability to classify the sentiment (e.g., positive, negative, or neutral) of specific statements in financial text.
+This repository fine-tunes a pre-trained language model (such as GPT, RoBERTa) on custom datasets to improve performance on specific tasks. Fine-tuning can help the model provide more accurate responses, adapt to specialized vocabularies, or improve accuracy in particular domains.
 
 ### Requirements
 These notebooks are designed to run in Google Colab, so there's no need to install dependencies locally. There are cells to install the mandatory package in the notebooks.
