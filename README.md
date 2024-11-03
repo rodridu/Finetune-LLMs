@@ -4,11 +4,11 @@ This repository contains Jupyter notebooks for fine-tuning large language models
 
 ## Table of Contents
 
-- [Overview](#overview)
-- [Requirements](#requirements)
-- [Notebook](#notebook)
-- [Dataset](#dataset)
-- [Usage](#usage)
+- [Overview](#Overview)
+- [Requirements](#Requirements)
+- [Notebook](#Notebook)
+- [Dataset](#Dataset)
+- [Usage](#Usage)
 
 ---
 
