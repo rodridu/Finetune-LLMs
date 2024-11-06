@@ -14,7 +14,7 @@ This repository contains Jupyter notebooks for fine-tuning large language models
 
 ### Project Overview
 
-This repository fine-tunes a pre-trained language model (such as GPT, RoBERTa) on custom datasets to improve performance on specific tasks. Fine-tuning can help the model provide more accurate responses, adapt to specialized vocabularies, or improve accuracy in particular domains.
+This repository fine-tunes a pre-trained language model (such as GPT, FinBERT, RoBERTa, etc.) on custom datasets to improve performance on specific tasks. Fine-tuning can help the model provide more accurate responses, adapt to specialized vocabularies, or improve accuracy in particular domains.
 
 ### Requirements
 These notebooks are designed to run in Google Colab, so there's no need to install dependencies locally. There are cells to install the mandatory package in the notebooks.
@@ -31,6 +31,8 @@ The repository includes the following Jupyter notebooks:
 1. `Finetune_ChatGPT.ipynb`: Notebook for fine-tuning ChatGPT 3.5-turbo on the self-labelled sentiment dataset.
 
 2. `Finetune_RoBERTa.ipynb`: Notebook for fine-tuning the RoBERTa model on the same dataset.
+
+2. `Finetune_FinBERT.ipynb`: Notebook for fine-tuning the pretrained FinBert model on the same dataset.
 
 Each notebook is self-contained and includes:
 
