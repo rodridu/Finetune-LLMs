@@ -28,7 +28,7 @@ These notebooks are designed to run in Google Colab, so there's no need to insta
 ### Notebook
 The repository includes the following Jupyter notebooks:
 
-1. `Finetune_ChatGPT.ipynb`: Notebook for fine-tuning ChatGPT 3.5-turbo on the self-labelled sentiment dataset.
+1. `Finetune_ChatGPT.ipynb`: Notebook for prompt-tuning ChatGPT 3.5-turbo on the self-labelled sentiment dataset.
 
 2. `Finetune_RoBERTa.ipynb`: Notebook for fine-tuning the RoBERTa model on the same dataset.
 
